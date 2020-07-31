@@ -29,7 +29,7 @@
             driver.findElement(By.cssSelector("#tsf > div:nth-child(2) > div.A8SBwf > div.FPdoLc.tfB0Bf > center > input.gNO89b")).click();
         }
 
-        @Entao("pesquisa e realiada com sucesso")
+        @Entao("pesquisa e realizada com sucessoo")
         public void pesquisa_e_realiada_com_sucesso() {
         boolean resultado = driver.findElement(By.cssSelector("#Yf1RJc > div.K20DDe.B8DMnc.JXFbbc.IDHhnb > div > div > div > div.PyJv1b.gsmt.PZPZlf > span")).isDisplayed();
             Assert.assertEquals(true, resultado);
