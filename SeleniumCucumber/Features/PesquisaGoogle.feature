@@ -12,5 +12,5 @@ Funcionalidade: Realizar uma pesquisa no google
 
     Dado que eu acesse Google.com
     Quando realizar a pesquisa
-    Entao pesquisa e realiada com sucesso
+    Entao pesquisa e realizada com sucesso
 
